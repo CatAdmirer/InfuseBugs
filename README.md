@@ -1,5 +1,5 @@
 # InfuseBugs
-This is where you can report bugs for the [Infuse SMP](modrinth.com/plugin/infusesmp) plugin.  
+This is where you can report bugs for the [Infuse SMP](https://modrinth.com/plugin/infusesmp) plugin.  
 
 Head over to the [Issues](https://github.com/CatAdmirer/InfuseBugs/issues) tab and put your problem there.  
 Make sure to include the following:
